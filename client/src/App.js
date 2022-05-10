@@ -12,7 +12,7 @@ import WhatGPT3 from './containers/WhatGPT3/WhatGPT3'
 
 const App = () => {
     return (
-        <div className='App'>
+        <div>
             <div className='gradient__bg'>
                 <Navbar />
                 <Header />
